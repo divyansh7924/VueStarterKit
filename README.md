@@ -1,4 +1,4 @@
-# ioggly
+# VueStarterKit
 
 ## Project setup
 ```
